@@ -41,6 +41,6 @@ Actively exploring **Artificial Intelligence and Information Security**.
 
 ## 📊 GitHub Stats
 
-![A. Rafay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)
+![A. Rafay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafayIman&show_icons=true&theme=default)
 
 
