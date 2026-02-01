@@ -41,6 +41,6 @@ Actively exploring **Artificial Intelligence and Information Security**.
 
 ## 📊 GitHub Stats
 
-![A-Rafay's GitHub Activity](https://github.com/A-Rafay.png?size=150)
+![A-Rafay's GitHub Activity](https://github.com/RafayIman.png?size=150)
 
 
