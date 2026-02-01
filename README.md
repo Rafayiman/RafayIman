@@ -2,7 +2,7 @@
 
 I am a **Full Stack Developer** focused on building optimized, real-world solutions.  
 My primary stack includes **Angular, .NET, and FastAPI**, with a strong ability to learn and adapt to new technologies.  
-Actively exploring ****Artificial Intelligence and Information Security**"".
+Actively exploring **Artificial Intelligence and Information Security**.
 
 
 ---
@@ -18,6 +18,16 @@ Actively exploring ****Artificial Intelligence and Information Security**"".
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+- **Workflow Automation System**  
+  System designed to automate business workflows, approvals, and task management for improved efficiency.
+
+- **Document Management System**  
+  Application for securely managing, storing, retrieving, and querying documents with multiple tools integrated into a unified platform.
+
+- **Blueprint Manager**  
+  Platform for managing blueprints, assigning and tracking workspaces and employees, and overseeing projects for architectural firms.
+
 - **Financial Management System**  
   Full-stack application built with Angular and ASP.NET Core, integrated with Oracle Database.
 
@@ -31,4 +41,5 @@ Actively exploring ****Artificial Intelligence and Information Security**"".
 
 ## 📊 GitHub Stats
 
-![A. Rafay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Rafay&layout=compact&theme=radical)
+
