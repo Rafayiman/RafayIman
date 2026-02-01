@@ -41,5 +41,6 @@ Actively exploring **Artificial Intelligence and Information Security**.
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Rafay&layout=compact&theme=radical)
+![A-Rafay's GitHub Activity](https://github.com/A-Rafay.png?size=150)
+
 
