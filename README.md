@@ -18,7 +18,6 @@ Actively exploring **Artificial Intelligence and Information Security**.
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
 - **Workflow Automation System**  
   System designed to automate business workflows, approvals, and task management for improved efficiency.
 
