@@ -41,7 +41,9 @@ Actively exploring **Artificial Intelligence and Information Security**.
 
 ## 📊 GitHub Stats
 
-![A. Rafay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafayIman&show_icons=true&theme=default)
-![Top Langs](https://img.shields.io/github/languages/top/RafayIman?style=flat-square)
+## 📊 GitHub Stats
 
+![A-Rafay's GitHub Contributions](https://github.com/RafayIman.png?size=150)
+
+![Top Languages](https://img.shields.io/badge/Top%20Languages-JavaScript-blue?style=flat-square)
 
