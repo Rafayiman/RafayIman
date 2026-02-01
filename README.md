@@ -38,12 +38,3 @@ Actively exploring **Artificial Intelligence and Information Security**.
   Angular standalone component simulating planetary motion using Three.js.
 
 ---
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![A-Rafay's GitHub Contributions](https://github.com/RafayIman.png?size=150)
-
-![Top Languages](https://img.shields.io/badge/Top%20Languages-JavaScript-blue?style=flat-square)
-
