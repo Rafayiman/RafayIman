@@ -9,8 +9,9 @@ Actively exploring **Artificial Intelligence and Information Security**.
 
 ## 🛠 Tech Stack
 
-- **Frontend:** Angular, React, HTML, CSS, JavaScript (ES6+)
+
 - **Backend:** ASP.NET Core, FastAPI, C#
+- **Frontend:** Angular, React, HTML, CSS, JavaScript 
 - **Database:** Oracle, SQL, MySQL, PostgreSQL
 - **Tools:** Git, GitHub, Visual Studio, VS Code, Azure, Oracle Cloud
 
